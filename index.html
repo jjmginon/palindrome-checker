@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palindrome Checker</title>
+    <meta name="description"
+        content="Check if a word, phrase, or number is a palindrome with this simple and interactive Palindrome Checker built using HTML, CSS, and JavaScript.">
+    <meta name="author" content="JJ Ginon">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/script.js" defer></script>
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <section class="intro">
+                <h1 class="header__h1">Palindrome Checker</h1>
+                <p class="header__p">
+                    According to <a href="https://dictionary.cambridge.org/us/dictionary/english/palindrome">Cambridge
+                        Dictionary</a>, a <strong>palindrome</strong> is a word or group of words that is the same when
+                    you read it forward from the beginning or backward from the end.
+                </p>
+                <p class="header__p">
+                    My <em>palindrome checker</em> allows users to enter text or numbers without punctuation, case, or
+                    space and check for palindromes by clicking the "Check" button.
+                </p>
+            </section>
+            <section class="features">
+                <h2 class="header__h2">Features:</h2>
+                <ul class="header__ul">
+                    <li>
+                        <strong>Case Insensitivity:</strong> Ignores letter case.
+                    </li>
+                    <li>
+                        <strong>Punctuation and Space Handling:</strong> Automatically removes punctuation and spaces.
+                    </li>
+                    <li>
+                        <strong>Numeric Palindromes:</strong> Supports checking numbers like “12321”.
+                    </li>
+                </ul>
+            </section>
+        </header>
+        <main class="main">
+            <section class="main__section palindrome-checker">
+                <h2 class="offscreen">Enter text or number here:</h2>
+                <input id="text-input" type="text" name="text-input" spellcheck="false"
+                    placeholder="Enter text or number (e.g. 'radar', '2030-03-02')"
+                    aria-label="Text input for palindrome check" class="palindrome-checker__input">
+                <button id="check-btn" aria-label="Check palindrome" class="palindrome-checker__button">Check</button>
+            </section>
+        </main>
+        <footer class="footer">
+            <p id="result" class="footer__result"></p>
+        </footer>
+    </div>
+</body>
+
+</html>
