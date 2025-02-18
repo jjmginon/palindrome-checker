@@ -1,5 +1,7 @@
 # Palindrome Checker
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e2922019-5614-4f9e-92cf-0eb30255c07d/deploy-status)](https://app.netlify.com/sites/my-palindrome-checker-app/deploys)
+
 ## Welcome to my Palindrome Checker!
 
 Discover the simplicity and efficiency of checking if a word, phrase, or number is a palindrome with this interactive web application. As a passionate developer, I've created a tool that brings functionality and ease of use together. Explore this project and see how it works! 🚀
