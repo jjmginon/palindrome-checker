@@ -57,13 +57,13 @@ button {
 }
 
 a {
-    color: #1f6feb;
+    font-weight: 500;
+    color: #1364dd;
     text-decoration: none;
 }
 
 a:hover,
 a:focus-visible {
-    color: #2f81f7;
     text-decoration: underline;
 }
 
