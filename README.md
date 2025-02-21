@@ -1,16 +1,11 @@
 # Palindrome Checker
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/06e6df92-6ca8-4e87-a598-af255933af4c/deploy-status)](https://app.netlify.com/sites/my-palindrome-checker-app/deploys)
-
-## Welcome to my Palindrome Checker!
-
-Discover the simplicity and efficiency of checking if a word, phrase, or number is a palindrome with this interactive web application. As a passionate developer, I've created a tool that brings functionality and ease of use together. Explore this project and see how it works! 🚀
-
 ## Table of Contents
 
 - [Palindrome Checker](#palindrome-checker)
-  - [Welcome to my Palindrome Checker!](#welcome-to-my-palindrome-checker)
   - [Table of Contents](#table-of-contents)
+  - [Netlify Status](#netlify-status)
+  - [Welcome to my Palindrome Checker!](#welcome-to-my-palindrome-checker)
   - [Project Description](#project-description)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
@@ -22,6 +17,14 @@ Discover the simplicity and efficiency of checking if a word, phrase, or number 
   - [Author](#author)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
+
+## Netlify Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06e6df92-6ca8-4e87-a598-af255933af4c/deploy-status)](https://app.netlify.com/sites/my-palindrome-checker-app/deploys)
+
+## Welcome to my Palindrome Checker!
+
+Discover the simplicity and efficiency of checking if a word, phrase, or number is a palindrome with this interactive web application. As a passionate developer, I've created a tool that brings functionality and ease of use together. Explore this project and see how it works! 🚀
 
 ## Project Description
 
