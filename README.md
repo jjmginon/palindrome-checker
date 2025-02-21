@@ -1,6 +1,6 @@
 # Palindrome Checker
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e2922019-5614-4f9e-92cf-0eb30255c07d/deploy-status)](https://app.netlify.com/sites/my-palindrome-checker-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06e6df92-6ca8-4e87-a598-af255933af4c/deploy-status)](https://app.netlify.com/sites/my-palindrome-checker-app/deploys)
 
 ## Welcome to my Palindrome Checker!
 
